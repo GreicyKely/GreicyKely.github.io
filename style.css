@@ -1,0 +1,42 @@
+html{height: 100%;}
+
+body{margin: 0px;}
+
+h1{font-size: 54px;
+color: green;
+border: 2px solid black;
+padding: 3px;
+width: 20%;
+float: left;
+margin-top: 0px;}
+
+h2{font-size: 54px;
+color: red;
+border: 2px solid black;
+padding: 3px;
+width: 20%;
+float: right;
+margin-top: 0px;}
+
+p{clear: both;}
+
+h3{font-size: 54px;
+color: blue;
+border: 2px solid black;
+padding: 3px;
+width: 20%;
+float: left;
+position: fixed;
+bottom: 0;
+margin-bottom: 0px;}
+
+h4{font-size: 54px;
+color: yellow;
+ border: 2px solid black;
+ padding: 3px;
+ width: 20%; 
+ float: right;
+ position: fixed;
+ bottom: 0;
+ margin-bottom: 0px;
+right: 0;}
